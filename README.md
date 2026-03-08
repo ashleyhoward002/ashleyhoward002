@@ -1,7 +1,7 @@
 # Hi, I'm Ashley Howard 👋
 
-**Data Analyst | AI/ML Developer | Aspiring AI Consultant**
-📍 Miami, FL · she/her
+**Data Analyst | AI/ML Developer | Full-Stack Builder**
+📍 Ann Arbor, MI · she/her
 
 ---
 
@@ -50,7 +50,6 @@ AI-powered shot analysis with real-time computer vision filters, session trackin
 ## Currently
 
 - 🎓 Finishing dual BS in Data Analytics + Applied AI
-- 📜 Completing Google Digital Marketing & E-Commerce Certificate
 - 🔍 Open to **Data Analyst** and **AI/ML** roles
 - 🚀 Building toward AI consulting
 
